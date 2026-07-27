@@ -1,0 +1,27 @@
+timestamp,source,medication,strength,pharmacy,price,location,url,drug_type
+2026-07-20 09:00:00,GoodRx,Atorvastatin,20mg,Costco,8.20,90210,https://goodrx.com,generic
+2026-07-20 09:00:00,GoodRx,Atorvastatin,20mg,Walmart,12.40,90210,https://goodrx.com,generic
+2026-07-20 09:00:00,Drugs.com,Atorvastatin,20mg,Walgreens,38.99,90210,https://drugs.com,generic
+2026-07-20 09:00:00,Drugs.com,Atorvastatin,20mg,CVS,44.50,90210,https://drugs.com,generic
+2026-07-20 09:00:00,Drugs.com,Lipitor,20mg,CVS,395.00,90210,https://drugs.com,brand
+2026-07-20 09:00:00,Drugs.com,Lipitor,20mg,Walgreens,378.50,90210,https://drugs.com,brand
+2026-07-20 09:00:00,GoodRx,Lipitor,20mg,Walmart,342.00,90210,https://goodrx.com,brand
+2026-07-20 09:00:00,GoodRx,Metformin,500mg,Costco,4.00,90210,https://goodrx.com,generic
+2026-07-20 09:00:00,GoodRx,Metformin,500mg,Walmart,4.50,90210,https://goodrx.com,generic
+2026-07-20 09:00:00,Drugs.com,Metformin,500mg,CVS,12.99,90210,https://drugs.com,generic
+2026-07-20 09:00:00,Drugs.com,Metformin,500mg,Walgreens,15.75,90210,https://drugs.com,generic
+2026-07-20 09:00:00,GoodRx,Lisinopril,10mg,Walmart,8.99,10001,https://goodrx.com,generic
+2026-07-20 09:00:00,GoodRx,Lisinopril,10mg,Costco,6.50,10001,https://goodrx.com,generic
+2026-07-20 09:00:00,Drugs.com,Lisinopril,10mg,CVS,18.40,10001,https://drugs.com,generic
+2026-07-20 09:00:00,Drugs.com,Lisinopril,10mg,Walgreens,21.00,10001,https://drugs.com,generic
+2026-07-20 09:00:00,GoodRx,Sertraline,50mg,Costco,9.10,60601,https://goodrx.com,generic
+2026-07-20 09:00:00,Drugs.com,Sertraline,50mg,CVS,46.20,60601,https://drugs.com,generic
+2026-07-20 09:00:00,Drugs.com,Sertraline,50mg,Walgreens,52.75,60601,https://drugs.com,generic
+2026-07-20 09:00:00,Drugs.com,Zoloft,50mg,CVS,410.00,60601,https://drugs.com,brand
+2026-07-20 09:00:00,GoodRx,Zoloft,50mg,Walmart,365.00,60601,https://goodrx.com,brand
+2026-07-20 09:00:00,GoodRx,Levothyroxine,75mcg,Costco,10.25,77001,https://goodrx.com,generic
+2026-07-20 09:00:00,Drugs.com,Levothyroxine,75mcg,CVS,28.90,77001,https://drugs.com,generic
+2026-07-20 09:00:00,Drugs.com,Levothyroxine,75mcg,Walgreens,32.10,77001,https://drugs.com,generic
+2026-07-20 09:00:00,GoodRx,Amoxicillin,500mg,Walmart,6.00,77001,https://goodrx.com,generic
+2026-07-20 09:00:00,Drugs.com,Amoxicillin,500mg,CVS,19.50,77001,https://drugs.com,generic
+2026-07-20 09:00:00,Drugs.com,Amoxicillin,500mg,Walgreens,17.25,77001,https://drugs.com,generic

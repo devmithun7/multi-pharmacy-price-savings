@@ -1,0 +1,4 @@
+timestamp,source,medication,strength,pharmacy,price,location,url
+2026-06-14 20:44:22,GoodRx,Metformin,500mg,CVS,12.99,90210,https://goodrx.com
+2026-06-14 20:44:22,Drugs.com,Metformin,500mg,Walgreens,14.5,90210,https://drugs.com
+2026-06-14 20:44:22,GoodRx,Lisinopril,10mg,Walmart,8.99,10001,https://goodrx.com

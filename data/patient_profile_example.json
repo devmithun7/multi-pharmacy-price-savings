@@ -1,0 +1,13 @@
+{
+  "name": "Jane Doe",
+  "has_commercial_insurance": true,
+  "default_pharmacy": "CVS",
+  "medications": [
+    {"name": "Lipitor", "strength": "20mg", "on_brand": true},
+    {"name": "Metformin", "strength": "500mg"},
+    {"name": "Lisinopril", "strength": "10mg"},
+    {"name": "Sertraline", "strength": "50mg"},
+    {"name": "Levothyroxine", "strength": "75mcg"},
+    {"name": "Amoxicillin", "strength": "500mg"}
+  ]
+}
